@@ -8,6 +8,9 @@
   {"id": 1, "username": "Jack", "password":"123"},
   {"id": 2, "username": "Black", "password":"123"},
   {"id": 3, "username": "Jesse", "password":"123"},
-  {"id": 4, "username": "Pink", "password":"123"},
+  {"id": 4, "username": "Pink", "password":"123"}
   ],
+    "profile": {
+    "name": "what"
+  }
 }
