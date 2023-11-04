@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "username": "Jack",
@@ -19,4 +19,4 @@
     "username": "Pinkman",
     "password":"1234"
   }
-]
+}
