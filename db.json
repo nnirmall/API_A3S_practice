@@ -21,6 +21,15 @@
       {"id": 8, "coursename": "Advanced Operating System", "courseId":"COSC 5150", "Instructor": "Dr.Bo Sun", "TotalEnrollment": "90", "credit":"3"},
   {"id": 9, "coursename": "Graduate Seminar", "courseId":"COSC 5100", "Instructor": "Dr.Islam", "TotalEnrollment": "112", "credit":"1"}
   ],
+   "students": [
+      {"id": 1, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"},
+      {"id": 2, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"},
+      {"id": 3, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"},
+      {"id": 4, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"},
+      {"id": 4, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"},
+      {"id": 5, "coursename": "Software Engineering", "courseId":"COSC 5230", "Instructor": "Dr.Rakibul Islam", "fname": "Ram","lanem": "Bahadur", "credit":"3"}
+  ],
+
     "profile": {
     "name": "what"
   }
